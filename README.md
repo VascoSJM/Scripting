@@ -1,2 +1,2 @@
 # Scripting
-Automating tasks using Python and Shell
+Automating tasks using Python
